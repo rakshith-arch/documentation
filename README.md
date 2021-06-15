@@ -1,2 +1,2 @@
 # documentation
-Documentation for technical development
+Placeholder.
